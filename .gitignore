@@ -19,6 +19,10 @@ target/
 *.exe
 SlothPix_Setup.exe
 
+# AI Models
+*.onnx
+assets/*.onnx
+
 # OS generated files
 .DS_Store
 .DS_Store?
